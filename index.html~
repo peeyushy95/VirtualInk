@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<title>Welcome to Virtual Ink</title>
+<link href="styles.css" rel="stylesheet" type="text/css"/>
+</head>
+
+
+<body>
+<div id="menu-wrapper">
+	<div id="menu">
+		<ul>
+			<li class="current_page_item"><a href="index.html">Home</a></li>
+			<li><a href="blog.html">Blog</a></li>
+			<li><a href="team.html">Our Team</a></li>
+			<li><a href="about.html">About</a></li>
+			<li><a href="suggest.php">Suggest Us</a></li>
+			<li><a href="terms.html">Terms of Services</a></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	
+	
+</div>
+<div id="header-wrapper">
+	<div id="header">
+		<div id="logo">
+			<h1>Virtual<span>Ink</span></h1>
+			<p>writes for real people </p>
+		</div>
+	</div>
+</div>
+<!-- end #header -->
+
+<div id="wrapper">
+	<div id="page">
+		<div id="content">
+			<div class="post">
+				<h2 class="title"><a href="#">The <span style="color:red">Virtual Ink</span> Thinkers</a></h2><hr />
+			</div>
+			
+		</div>
+		
+		<div id="sidebar">
+		<p class="sign_in"><strong>Not A Member Yet? Join Us.</strong><br /><br /><a href="registration.php"><img src="images/signup-button.png" height="70" width = "270"></a></p>
+		
+		</div>
+	</div>
+</div>
+
+<div id="footer">
+	<p>&copy; 2013 VirtualInk.com | Designed by Lovely Sinha and Jitendra Sarswat.</p>
+</div>
+<!-- end #footer -->
+</body>
+</html>
